@@ -1,9 +1,9 @@
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 @import url(https://use.fontawesome.com/releases/v5.2.0/css/all.css);
 
 body {
     background-color: #F7F9FC;
-    font-family: 'Open Sans', serif;
+    font-family: 'Open Sans', sans-serif;
     color: #575F7D;
     font-size: 17px;
     line-height: 2;
